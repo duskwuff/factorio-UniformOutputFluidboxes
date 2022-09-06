@@ -1,0 +1,9 @@
+{
+    "name": "uniform-output-fluidboxes",
+    "version": "1.0.0",
+    "title": "Uniform Output Fluidboxes",
+    "author": "Dusk Wuff",
+    "factorio_version": "1.1",
+    "dependencies": ["base"],
+    "description": "Makes all output fluidboxes have an area of 1."
+}
